@@ -1,4 +1,4 @@
-## Welcome to Storyboarding
+## What is Storyboarding?
 
 
 Information processing in real world is mostly multi-modal in nature. One of such associations between language and corresponding visual interpretation is observed in the task of **storyboarding**. A storyboard is a concise series of visual illustrations of how a video would unfold, along with their corresponding textual descriptions. 
